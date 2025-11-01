@@ -129,5 +129,7 @@ A partir dessa análise, é possível embasar decisões estratégicas de design,
 ✍️ Autor
 
 Guilherme Trindade
+
 🎓 Estudante do Instituto Germinare Tech
+
 📅 2025
