@@ -1,4 +1,5 @@
 📊 Análise Exploratória de Dados – Comportamento de Usuários
+
 📋 Descrição do Projeto
 
 Este notebook tem como objetivo realizar uma análise exploratória de dados (ETA) para compreender padrões de comportamento dos usuários em um aplicativo móvel.
